@@ -1,5 +1,5 @@
 # Note Taker
-A simple app that helps a user store notes.
+A simple app that helps a user store notes. You can view the deployed app [here](https://femi-note-taker.herokuapp.com/)
 
 ## Table of Contents 
 
